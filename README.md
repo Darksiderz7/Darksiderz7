@@ -1,4 +1,4 @@
-# Hi, I'm Elias Bujah 👋
+# Hi, I'm Elias Bujah — Aspiring Full-Stack Developer 👋
 
 I am a Computer Science student at American International College with an interest in full-stack and front-end development. I enjoy learning how different technologies work together and building applications that are useful and easy to use.
 
