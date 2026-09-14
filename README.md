@@ -13,3 +13,9 @@ I am a Computer Science student at American International College with an intere
 - I am currently learning more about Docker, cloud platforms, CI/CD pipelines, and professional Git workflows.
 - I am continuing to improve my skills in Python, Django, JavaScript, HTML, and CSS through class and personal projects.
 - My goal is to become a well-rounded full-stack developer who can build and deploy complete applications.
+
+## Connect With Me
+
+- **Email:** [eliasraphael34@gmail.com](mailto:eliasraphael34@gmail.com)
+- **LinkedIn:** [linkedin.com/in/elias-bujah-50a79b226](https://www.linkedin.com/in/elias-bujah-50a79b226/)
+- **GitHub:** [github.com/Darksiderz7](https://github.com/Darksiderz7)
